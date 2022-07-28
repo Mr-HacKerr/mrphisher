@@ -1,0 +1,8 @@
+Package: mrphisher
+Version: 1.0
+Installed-Size: 9400
+Architecture: all
+Maintainer: @Mr-HacKerr
+Depends: php, wget, git, curl
+Homepage: https://github.com/Mr-HacKerr/mrphisher
+Description: A phishing tool with 35 templates. This Tool is made for educational purpose only !
